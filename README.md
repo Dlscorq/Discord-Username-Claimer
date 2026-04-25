@@ -9,5 +9,6 @@ I am looking for a Discord username claimer or turbo tool. If you have one, talk
         a5f74b19-9e45-40e0-b45d-47ff91b7a6c2
 
 https://discord.com/api/v9/users/@me
+https://discord.com/api/v10/users/@me
 username
 password
