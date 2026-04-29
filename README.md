@@ -12,3 +12,4 @@ https://discord.com/api/v9/users/@me
 https://discord.com/api/v10/users/@me
 username
 password
+token
