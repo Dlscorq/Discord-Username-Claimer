@@ -14,3 +14,9 @@ https://discord.com/api/v10/users/@me
 username
 password
 token
+authorization
+
+2N 2L 2C
+3L 3L 3C 
+OGS OG
+
